@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://png.pngtree.com/background/20230626/original/pngtree-d-render-of-stopwatch-and-timer-icon-with-clouds-on-blue-picture-image_4058506.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first_heading {
+    font-size: 60px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 130px;
+
+}
+
+#number {
+    font-size: 60px !important;
+    color: white;
+    font-weight: bold;
+
+}
+
+.input-sec {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 14px;
+    font-weight: bold;
+    border: 2px solid #2c1438;
+}
+
+.size {
+    background-color: violet;
+    color: white;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 30px;
+    border: 2px solid violet;
+}
+
+.size_2 {
+
+    background-color: #2d4a6a;
+    color: white;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    gap: 10px;
+    border-radius: 30px;
+    border: 2px solid gray;
+
+}
+
+#result {
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+}
